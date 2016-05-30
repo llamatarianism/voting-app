@@ -1,0 +1,21 @@
+nav {
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#twitter {
+  margin-right: 5px;
+}
+
+#central {
+  background-color: #fff;
+  height: 1000px;
+  margin-top: 50px;
+}
+
+body {
+  background-color: #ddd;
+}
